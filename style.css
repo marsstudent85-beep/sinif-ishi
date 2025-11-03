@@ -1,0 +1,33 @@
+.ota {
+    background-color: brown;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+header {
+    background-color: blue;
+        color: white;
+        text-align: center;
+}
+
+
+main {
+    background-color: burlywood;
+}
+
+.box {
+    text-align: center;
+    background-color: rgb(182, 174, 165);
+    width: 600px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+
+button {
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+}
